@@ -83,7 +83,7 @@ call <sid>hi('IncSearch',     s:gruberBlack,      s:gruberFG2,  'NONE',    '')
 call <sid>hi('Italic',        '',                 '',           s:italic,  '')
 
 call <sid>hi('Macro',         s:gruberFG,         '',            '',        '')
-call <sid>hi('MatchParen',    s:gruberBG2,         s:gruberMain, '',        '')
+call <sid>hi('MatchParen',    s:gruberBG2,        s:gruberLightBlue, '',        '')
 call <sid>hi('ModeMsg',       s:gruberFG2,        '',            '',        '')
 call <sid>hi('MoreMsg',       s:gruberFG2,        '',            '',        '')
 call <sid>hi('Question',      s:gruberNiagara,    '',            '',        '')
