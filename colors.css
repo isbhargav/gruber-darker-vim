@@ -1,0 +1,23 @@
+:root{
+  --gruberFG        : #e4e4ef;
+  --gruberFG1       : #f4f4ff;
+  --gruberFG2       : #f5f5ff;
+  --gruberFG3       : #65737e;
+  --gruberWhite     : #ffffff;
+  --gruberBlack     : #000000;
+  --gruberBG        : #181818;
+  --gruberBG1       : #282828;
+  --gruberBG2       : #453d41;
+  --gruberLightRed  : #c73c3f;
+  --gruberRed       : #f43841;
+  --gruberNiagara   : #96a6c8;
+  --gruberQuartz    : #95a99f;
+  --gruberGreen     : #73c936;
+  --gruberMain      : #ffdd33;
+  --gruberBrown     : #cc8c3c;
+  --gruberPurple    : #9e95c7;
+  --gruberLightBlue : #0087d7;
+  --gruberBlue      : #0000d7;
+  --gruberGold      : #d7af00;
+  
+}
